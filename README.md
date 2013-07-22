@@ -29,3 +29,8 @@ Modules Needed
 
 None.  This was written in Perl 5.8.8 with no further modules beyond what's already built-in.
 
+
+Ownership
+==========
+
+Copyright Augie De Blieck Jr. <augiedb@gmail.com>, licensed as GPLv3.

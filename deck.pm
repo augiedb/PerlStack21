@@ -11,7 +11,6 @@ use card;
 # count_cards
 # add_card
 # get_next_card
-dd
 
 my @suits  = qw (h d c s);
 my @values = qw (2 3 4 5 6 7 8 9 T J Q K A);

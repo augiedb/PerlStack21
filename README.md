@@ -29,6 +29,10 @@ Modules Needed
 
 None.  This was written in Perl 5.8.8 with no further modules beyond what's already built-in.
 
+TO DO
+=================
+Rewrite this with MOOSE. It's about time.
+
 
 Ownership
 ==========
